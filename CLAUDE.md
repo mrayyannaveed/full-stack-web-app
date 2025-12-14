@@ -31,7 +31,7 @@ This is a full-stack web application for managing products with a modern glassmo
 ## Project Structure
 
 ```
-class10/
+full-stack-web-app/
 ├── backend/
 │   ├── main.py                 # FastAPI application entry point
 │   ├── pyproject.toml          # Python dependencies (uv package manager)
